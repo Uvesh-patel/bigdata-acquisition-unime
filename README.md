@@ -28,8 +28,9 @@ Big Data Acquisition covers the fundamentals of collecting, storing, and process
 ## Repository Structure
 
 ```
-├── Course-Notes.md         # Complete study guide (12 topics)
-├── Lectures/               # Lecture slides (PDF)
+├── Course-Notes.md                      # Complete study guide (12 topics)
+├── Project-Reddit-BigData-Analysis.pdf  # Project report with benchmarks
+├── Lectures/                            # Lecture slides (PDF)
 │   ├── 01_Intro.pdf
 │   ├── 02_Intro.pdf
 │   ├── 03_Spark.pdf
